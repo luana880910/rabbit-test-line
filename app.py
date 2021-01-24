@@ -73,10 +73,10 @@ def returnChat(event):
                     label='了解小兔子與作者',
                     text='兔子與作者的歷史'
                     ),
-                    # URITemplateAction(
-                    #     label='前往作者的GitHub( ♥д♥)',
-                    #     uri='line://app/1655596411-olJb6XrV'
-                    # ),
+                    URITemplateAction(
+                        label='狼人殺測試版!(目前只限定電腦版唷!)',
+                        uri='line://app/1655596411-xb3dV4Y1'
+                    )
 
                 ]
             )
