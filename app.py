@@ -75,7 +75,8 @@ def returnChat(event):
                     ),
                     URITemplateAction(
                         label='狼人殺測試版!(目前只限定電腦版唷!)',
-                        uri='line://app/1655596411-xb3dV4Y1'
+                        # uri='line://app/1655596411-xb3dV4Y1'
+                        uri = 'https://rabbit-liff-for-wolf.herokuapp.com/'
                     )
 
                 ]
